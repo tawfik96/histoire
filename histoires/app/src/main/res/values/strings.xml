@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">histoires</string>
+    <string-array name="index">
+        <item>Le petit Chaperon Rouge</item>
+        <item>Le chat botté</item>
+        <item>Cendrillon </item>
+        <item>Le Prince Grenouille</item>
+        <item>La petite fée Rosaline</item>
+        <item>Le jardin merveilleux</item>
+        <item>Le petit Chaperon Rouge</item>
+        <item>Le chat botté</item>
+        <item>Cendrillon </item>
+        <item>Le Prince Grenouille</item>
+        <item>La petite fée Rosaline</item>
+        <item>Le jardin merveilleux</item>
+        <item>Le petit Chaperon Rouge</item>
+        <item>Le chat botté</item>
+        <item>Cendrillon </item>
+        <item>Le Prince Grenouille</item>
+        <item>La petite fée Rosaline</item>
+        <item>Le jardin merveilleux</item>
+
+    </string-array>
+</resources>
